@@ -1,5 +1,5 @@
 # Welcome to GeeNe IO
-This is a personal organization, so only me who will maintain this page.
+This is a personal organization, only me will maintain this page.
 
 # Structure
 The structure of this site is only index page. All other content will be redirected to notion page, because I feel comfortable to write there instead of github page. So this page solely purpose is to index all notion pages that I share to public.
